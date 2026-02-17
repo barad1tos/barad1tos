@@ -1,6 +1,6 @@
-## Hi there
+## Hi there!
 
-Hi! Some random DevOps with passion to both hardware and software parts of his way ♾️
+Some random DevOps with a passion for both hardware and software parts of his way ♾️
 
 ### Languages
 
