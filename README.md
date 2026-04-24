@@ -17,14 +17,3 @@ Love creating comfortable, functional things based on the principle of eliminati
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/barad1tos/github-readme/main/output/contribs-dark.svg"
-  />
-  <img
-    alt="Isometric GitHub contribution chart"
-    src="https://raw.githubusercontent.com/barad1tos/github-readme/main/output/contribs-light.svg"
-  />
-</picture>
