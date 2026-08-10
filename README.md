@@ -1,6 +1,6 @@
 ## Hi there!
 
-Some random DevOps with a passion for both hardware and software parts of his own way.
+Some random DevOps with a passion for both hardware and software parts of his way.
 
 Love creating comfortable, functional things based on the principle of eliminating unnecessary movements. The best action is no action at all, while fully preserving functionality.
 
